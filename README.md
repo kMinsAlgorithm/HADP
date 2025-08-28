@@ -1,6 +1,6 @@
 # HADP: Hybrid A*-Diffusion Planner for Robust Navigation in Dynamic Obstacle Environments
 
-> **Status:** Under review in *IEEE Access*
+> **Status:** Under review **
 
 This repository contains the implementation and experiments for **HADP**, a hybrid planning system designed to generate stable and safe avoidance trajectories in dynamic obstacle environments.  
 
